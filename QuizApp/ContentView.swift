@@ -8,6 +8,7 @@
 import SwiftUI
 
 
+
 // The main content view of the quiz app
 struct ContentView: View {
     // Array of questions for the quiz
